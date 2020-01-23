@@ -4,3 +4,4 @@ Micro-Maths is an edcational application designed to help improve multiplication
 
 ## Key Features
 - Programmed in HTML, CSS and JQuery using Brackets IDE
+- Utilizes JSON storage arrays for saving student scores

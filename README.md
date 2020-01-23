@@ -1,4 +1,4 @@
-<img src="images/platforms.png" width="400" >
+<img src="images/mobileapp_image.png" width="400" >
 
 ## Overview
 

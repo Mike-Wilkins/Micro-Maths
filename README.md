@@ -1,5 +1,5 @@
-<img src="images/mobileapp_image.png" width="400" >
+## Multiplication Test Mobile Application
 
-## Overview
+Micro-Maths is designed to help users improve their multiplication skills.
 
 

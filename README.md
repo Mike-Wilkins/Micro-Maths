@@ -8,3 +8,4 @@ Micro-Maths is an edcational application designed to help improve multiplication
 - Uses ZingChart custom graphing libraries for generatating progress bar charts
 
 ## Application Screenshots
+<img src="images/screenshots.png" > 
